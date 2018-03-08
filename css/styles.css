@@ -1,0 +1,25 @@
+.lightBlue {
+    color: lightblue;
+}
+
+.red{
+    color: red;
+}
+
+#convertir{
+    margin-right: 25px;
+}
+
+#volver{
+    margin: 2% 0 2% 2%;
+
+}
+
+#map{
+    height: 500px;
+    width: 500px;
+}
+
+#pac-input{
+    font-size: 1.5em;
+}
